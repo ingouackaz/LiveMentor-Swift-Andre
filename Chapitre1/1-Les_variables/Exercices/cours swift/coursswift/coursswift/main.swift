@@ -14,6 +14,7 @@ var _DateOfCreation : Int = 12
 var _Ligue : String = "D2"
 var _Proprietaire : String = "andre"
 
+
 //exercice 1
 
 func displayClubInformation(Teamname :String, MaillotColor :String,DateOfCreation : Int,Ligue :String,Proprietaire : String){
